@@ -30,6 +30,6 @@ A continuación adjunto algunas capturas del trabajo práctico:
 ![compilacion](/photos/script.png)
 
 ## EtherScan
-![compilacion](/hardhat-ts-tutorial/photos/rinkeby.png)
+![compilacion](/photos/rinkeby.png)
 
 
