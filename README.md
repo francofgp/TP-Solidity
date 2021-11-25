@@ -1,4 +1,8 @@
-# Ejecutar el proyecto
+# Trabajo Práctico de solidity - Redes Avanzadas
+
+*Alumno: Pértile Franco Giuliano, legajo: 12465*
+
+## Ejecutar el proyecto
 
 
 ```bash
